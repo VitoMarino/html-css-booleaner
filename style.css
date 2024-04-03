@@ -1,6 +1,14 @@
-#sfondoimmagine {
+#logo {
     height: 2rem;
 }
+
+#pattern {
+    background-color: aqua;
+    position:relative;
+    right: auto;
+}
+
+
 .scrittacolore {
     color: blue;
 }
@@ -16,4 +24,8 @@ thead {
 
 .trcolorato {
     background-color: aqua;
+}
+
+.scrittaimmagine {
+   
 }
