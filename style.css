@@ -1,8 +1,4 @@
-#Sfondoimmagine {
-    background-image: url(img-booleaner/img/pattern.png);
-    background-color: aqua;
+.evidenzia{
+    color: #ffff00;
 }
-
-span.Colorblue {
-    color: blue;
-}
+body { background-color: red };
