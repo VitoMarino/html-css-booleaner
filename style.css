@@ -1,4 +1,19 @@
-.evidenzia{
-    color: #ffff00;
+#sfondoimmagine {
+    height: 2rem;
 }
-body { background-color: red };
+.scrittacolore {
+    color: blue;
+}
+
+.evidenzia {
+    background: yellow;
+}
+
+thead {
+    color: white;
+    background-color: blue;
+}
+
+.trcolorato {
+    background-color: aqua;
+}
