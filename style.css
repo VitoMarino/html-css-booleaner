@@ -1,5 +1,14 @@
+body{
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+nav{
+    background-color: rgb(0, 119, 255);
+}
+
 #logo {
-    height: 2rem;
+    height: 100px;
 }
 
 #pattern {
@@ -26,6 +35,3 @@ thead {
     background-color: aqua;
 }
 
-.scrittaimmagine {
-   
-}
